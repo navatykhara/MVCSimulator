@@ -1,4 +1,4 @@
-Program: Assignment 5 (COMP2404 Final)
+Program: Assignment 5
 Revision Authors: Navaty Khara (101116910)
 Files included:
 Control.cc  Dungeon.h   Fishmen.h  Makefile  Net.h           View.cc  COMP2404_NAVATYKHARA_UMLDIAGRAM.pdf
